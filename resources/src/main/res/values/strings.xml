@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txn_invalid_amount">Invalid Amount</string>
+    <string name="txn_incorrect_password">Wrong Password</string>
+    <string name="txn_credit_title">Credit Given</string>
+    <string name="txn_payment_title">Payment Received</string>
+
+</resources>
