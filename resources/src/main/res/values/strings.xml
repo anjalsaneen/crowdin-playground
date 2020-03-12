@@ -4,5 +4,6 @@
     <string name="txn_incorrect_password">Wrong Password</string>
     <string name="txn_credit_title">Credit Given</string>
     <string name="txn_payment_title">Payment Received</string>
+    <string name="test1">Payment</string>
 
 </resources>
