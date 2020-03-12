@@ -4,5 +4,5 @@
     <string name="txn_incorrect_password">गलत पासवर्ड</string>
     <string name="txn_credit_title">उधर दें </string>
     <string name="txn_payment_title">पेमेंट लें </string>
-    <string name="test1">Payment</string>
+    <string name="test1">Translated</string>
 </resources>
